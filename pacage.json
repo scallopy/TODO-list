@@ -6,7 +6,8 @@
         "ecspress": "~4.16.3",
         "ejs": "~2.6.1",
         "cookie-session": "~2.0.0",
-        "body-parser": "~1.18.3"
+        "body-parser": "~1.18.3",
+        "nodemon": "~1.18.4"
     },
     "author": "Scallopy <scallopy@abv.bg>",
     "description": "A very basic to do list manager"
